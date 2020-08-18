@@ -1,0 +1,59 @@
+.container{
+  width:960px;
+  margin:0 auto;
+}
+
+
+.cores{
+  width:960px;
+  margin-top:100px;
+  display:flex;
+  float:left;
+}
+
+
+.azul{
+ box-shadow: 5px 5px 5px black;
+  margin-left:100px;
+  width: 200px;
+  height:200px;
+  background:blue;
+  border-radius:50%;
+}
+
+.amarelo{
+  box-shadow: 5px 5px 5px black;
+  margin-left:100px;
+  width: 200px;
+  height:200px;
+  background:yellow;
+  border-radius:50%;
+}
+
+.vermelho{
+  box-shadow: 5px 5px 5px black;
+  margin-left:100px;
+  width: 200px;
+  height:200px;
+  background:red;
+  border-radius:50%;
+}
+
+.red{
+  background:red;
+}
+
+.yellow{
+  background: yellow;
+}
+
+.blue{
+  background:blue;
+}
+
+h1{
+  font-size:50px;
+  text-align:center;
+  color:green;
+  font-family: 'Do Hyeon', sans-serif;
+}
